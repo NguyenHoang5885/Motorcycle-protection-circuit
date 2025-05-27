@@ -33,4 +33,4 @@ A vehicle protection system based on **ESP32**, **SIM A7680C**, **Neo-6M GPS**, 
 - **MQTT Topics** for sending GPS, motion, and event data
 - **REST API Ready** for future expansion
 
-### Example MQTT Topic:
+
